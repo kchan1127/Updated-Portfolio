@@ -1,0 +1,17 @@
+{
+  "name": "Updated-Portfolio",
+  "homepage": "https://github.com/kchan1127/Updated-Portfolio",
+  "authors": [
+    "Kevin Chan <kevchan@ucdavis.edu>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
